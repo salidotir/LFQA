@@ -1,6 +1,4 @@
 
-![Data-science](https://cascade.madmimi.com/theme_logos/0024/5093/original/NLP_Icon.png?1497420971)
-
 
 # Rpository Structure:
 ```
