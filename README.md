@@ -15,7 +15,7 @@ Please try to make branches, if you want to updatae files.
 
 # Attention2:
 Use the following format for commiting message:
-<date>_<time>: <message>.
+**Date_Time: Message.**
 eg. 4/24/2024_10:31AM: I have created test file.
 
 # Project Detail
