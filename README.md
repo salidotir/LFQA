@@ -22,7 +22,9 @@
 Long Form Question Answering & Generated Content Detection
 
 **Goal**:
+
 1_To create an NLP model that can produce detailed and accurate long-form answers for questions in the ELI5 dataset.
+
 2_To Generate Content Detection
 
 # Dataset Detail:
