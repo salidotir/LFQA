@@ -1,0 +1,22 @@
+These valeus are for train_dataset of 1000 questions 
+
+Mean ROUGE-1 scores:
+{
+    "precision": 37.14,
+    "recall": 24.35,
+    "fmeasure": 24.24
+}
+
+Mean ROUGE-2 scores:
+{
+    "precision": 7.41,
+    "recall": 4.18,
+    "fmeasure": 4.31
+}
+
+Mean ROUGE-L scores:
+{
+    "precision": 21.3,
+    "recall": 14.59,
+    "fmeasure": 13.94
+}
